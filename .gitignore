@@ -1,0 +1,12 @@
+node_modules/
+
+# build outputs
+dist/
+build/
+out/
+*.tsbuildinfo
+
+# env files
+.env
+.env.*
+!.env.example
